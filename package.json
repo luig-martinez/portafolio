@@ -1,0 +1,19 @@
+{
+  "name": "my-portafolio",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.1.4",
+    "vite-plugin-minify": "^1.5.2",
+    "vite-plugin-purgecss": "^0.2.12"
+  },
+  "dependencies": {
+    "glob": "^10.3.10"
+  }
+}
